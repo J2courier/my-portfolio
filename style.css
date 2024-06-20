@@ -1,0 +1,179 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+*{
+    margin: 0px;
+    letter-spacing: 2px;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(8, 0, 19);
+}
+.container{
+    position: relative;
+    margin: 0 auto;
+}
+.jjbg{
+    height: 450px;
+    width: 1519px;
+    opacity: 40%;
+    position: relative;
+    bottom: 25px;
+}
+.nakoshi{
+    position: absolute;
+    box-shadow: 0px 0px 5px 5px rgba(61, 61, 61, 0.668);
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    top: 170px;
+    left: 140px;
+}
+.spotify{
+    position: relative;
+    border-radius: 50%;
+    height: 50px;
+    width: 53px;
+    top: 115px;
+    left: 405px;
+}
+.mihon{
+    position: relative;
+    border-radius: 50%;  
+    box-shadow: 0 0 2px 2px rgba(50, 2, 128, 0.899);
+    height: 47px;
+    width: 47px;
+    top: 47px;
+    left: 350px;
+    
+    
+}
+.about_me{
+    padding: 9px 5px 5px 25px;
+    width: 320px;
+    height: 50px;
+    position: relative;
+    bottom: 0px;
+    right: 470px;
+}
+.h1aboutme{
+    color: white;
+    font-size: 15   px;
+    padding-top: 5px;
+}
+
+.s1{
+    color: white;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    bottom: 302px;
+    left: 610px;
+}
+.m1{
+    color: white;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    left: 610px;
+    bottom: 170px;
+}
+
+.user-info{
+    position: relative;
+    padding: 15px 5px 5px 15px;
+    height: 50px;
+    width: 300px;
+    right: 600px;
+    bottom: 60px;
+}
+.user_infoP{
+    color: white;
+}
+.myhobbyh1{
+    color: white;
+    position: relative;
+    bottom: 305px;
+    left: 470px;
+}
+.mypfp{
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+    position: relative;
+    box-shadow: 0 0 2px 2px rgba(50, 2, 128, 0.899);
+    top: 42px;
+    left: -50px;
+}
+.land{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    position: relative; 
+    box-shadow: 0 0 2px 2px rgba(50, 2, 128, 0.899);
+    top: 90px;
+    right: 98px;
+}
+.cslogo{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    position: relative; 
+    box-shadow: 0 0 2px 2px rgba(50, 2, 128, 0.899);
+    top: 140px;
+    right: 143px;
+}
+.parent{
+    height: 500px;
+    width: 605px;
+    border: solid rgba(19, 19, 19, 0.719);
+    background-color: rgba(19, 19, 19, 0.719);
+    position: relative;
+    bottom: 45px;
+    left: 140px;
+    border-radius: 2%;
+    box-shadow: 0 0 5px 3px gray;
+}
+.second-parent{
+    height: 500px;
+    width: 605px;
+    border: solid rgba(19, 19, 19, 0.719);
+    background-color: rgba(19, 19, 19, 0.719);
+    position: relative;
+    bottom: 545px;
+    left: 760px;
+    border-radius: 2%;
+    box-shadow: 0 0 5px 3px gray;
+}
+.child{
+    position: absolute;
+    background-color: rgb(20, 5, 41);
+    border-radius: 2%;
+    width: 600px;
+    height: 50px;
+    left: -1px;
+   
+    border-radius: 2%;
+}
+.second-child{
+    width: 605px;
+    height: 50px;
+    background-color: rgb(20, 5, 41);
+    border-radius: 5%;
+    position: relative;
+    right: 2px;
+}
+.learnmore{
+    color: white;
+    position: relative;
+    bottom: 345px;
+    left: 50px;
+}
+.learnmore1{
+    color: white;
+    position: relative;
+    bottom: 355px;
+    left: 700px;
+}
